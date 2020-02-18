@@ -27,7 +27,7 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_ED4334E56CA14CE0993E209E3BD69F47"
+        "MsmKey" = "8:_C43AD49747AC43989D104E79653258E1"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -68,6 +68,14 @@
             "PrerequisitesLocation" = "2:1"
             "Url" = "8:"
             "ComponentsUrl" = "8:"
+                "Items"
+                {
+                    "{EDC2488A-8267-493A-A98E-7D9C3B36CDF3}:.NETFramework,Version=v4.6.1"
+                    {
+                    "Name" = "8:Microsoft .NET Framework 4.6.1 (x86 and x64)"
+                    "ProductCode" = "8:.NETFramework,Version=v4.6.1"
+                    }
+                }
             }
         }
         "Release"
@@ -92,6 +100,14 @@
             "PrerequisitesLocation" = "2:1"
             "Url" = "8:"
             "ComponentsUrl" = "8:"
+                "Items"
+                {
+                    "{EDC2488A-8267-493A-A98E-7D9C3B36CDF3}:.NETFramework,Version=v4.6.1"
+                    {
+                    "Name" = "8:Microsoft .NET Framework 4.6.1 (x86 and x64)"
+                    "ProductCode" = "8:.NETFramework,Version=v4.6.1"
+                    }
+                }
             }
         }
     }
@@ -153,10 +169,10 @@
             "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_ED4334E56CA14CE0993E209E3BD69F47"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_C43AD49747AC43989D104E79653258E1"
             {
-            "SourcePath" = "8:C:\\Users\\Marcin\\Downloads\\icon.ico"
-            "TargetName" = "8:icon.ico"
+            "SourcePath" = "8:C:\\Users\\Marcin\\Downloads\\Double-J-Design-Ravenna-3d-Lock.ico"
+            "TargetName" = "8:icon"
             "Tag" = "8:"
             "Folder" = "8:_6D66F473931343B2AA792705A0919214"
             "Condition" = "8:"
@@ -240,15 +256,15 @@
         {
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:Encrypter"
-        "ProductCode" = "8:{3257B3FA-B197-45E2-9881-77B7C0009164}"
-        "PackageCode" = "8:{BD726C19-F450-4F5A-9DAF-AEF59077D86A}"
+        "ProductCode" = "8:{22347879-B23A-4F78-A5D9-5595C17E5D40}"
+        "PackageCode" = "8:{E6C04774-F74A-41E2-AFF6-B0FEC3E6A89A}"
         "UpgradeCode" = "8:{B5901F9C-B853-44A0-AB1F-3F1AD26055C7}"
         "AspNetVersion" = "8:2.0.50727.0"
         "RestartWWWService" = "11:FALSE"
         "RemovePreviousVersions" = "11:TRUE"
         "DetectNewerInstalledVersion" = "11:FALSE"
         "InstallAllUsers" = "11:FALSE"
-        "ProductVersion" = "8:1.0.0"
+        "ProductVersion" = "8:1.0.1"
         "Manufacturer" = "8:DiscoKarton"
         "ARPHELPTELEPHONE" = "8:"
         "ARPHELPLINK" = "8:"
@@ -258,7 +274,7 @@
         "Keywords" = "8:"
         "ARPCOMMENTS" = "8:Easily encrypt and decrypt your files and messages"
         "ARPURLINFOABOUT" = "8:"
-        "ARPPRODUCTICON" = "8:_ED4334E56CA14CE0993E209E3BD69F47"
+        "ARPPRODUCTICON" = "8:_C43AD49747AC43989D104E79653258E1"
         "ARPIconIndex" = "3:0"
         "SearchPath" = "8:"
         "UseSystemSearchPath" = "11:TRUE"
@@ -372,7 +388,7 @@
             "Target" = "8:_425759A291BF45719D9BAEF1958C4877"
             "Folder" = "8:_A34CE5CED4354A96818ABAB2AE02467F"
             "WorkingFolder" = "8:_6D66F473931343B2AA792705A0919214"
-            "Icon" = "8:_ED4334E56CA14CE0993E209E3BD69F47"
+            "Icon" = "8:_C43AD49747AC43989D104E79653258E1"
             "Feature" = "8:"
             }
             "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_D634395211014D6D91B8F450C39505A6"
@@ -386,7 +402,7 @@
             "Target" = "8:_425759A291BF45719D9BAEF1958C4877"
             "Folder" = "8:_CF1B636B6D7C48DEAA4E894F516C204B"
             "WorkingFolder" = "8:_6D66F473931343B2AA792705A0919214"
-            "Icon" = "8:_ED4334E56CA14CE0993E209E3BD69F47"
+            "Icon" = "8:_C43AD49747AC43989D104E79653258E1"
             "Feature" = "8:"
             }
         }
