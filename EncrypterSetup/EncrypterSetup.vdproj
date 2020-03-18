@@ -15,32 +15,20 @@
     {
         "Entry"
         {
-        "MsmKey" = "8:_425759A291BF45719D9BAEF1958C4877"
+        "MsmKey" = "8:_6348834537B64F2395C5778E1B30652C"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_4AEA248DBA948CA0BEEBBD45DBEFB267"
-        "OwnerKey" = "8:_425759A291BF45719D9BAEF1958C4877"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_C43AD49747AC43989D104E79653258E1"
+        "MsmKey" = "8:_AEBB308BE8DC4B6997E50D3FAEA468C5"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_425759A291BF45719D9BAEF1958C4877"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_4AEA248DBA948CA0BEEBBD45DBEFB267"
+        "OwnerKey" = "8:_AEBB308BE8DC4B6997E50D3FAEA468C5"
         "MsmSig" = "8:_UNDEFINED"
         }
     }
@@ -138,38 +126,7 @@
         }
         "File"
         {
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_4AEA248DBA948CA0BEEBBD45DBEFB267"
-            {
-            "AssemblyRegister" = "3:1"
-            "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:System.Net.Http, Version=4.2.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
-                "ScatterAssemblies"
-                {
-                    "_4AEA248DBA948CA0BEEBBD45DBEFB267"
-                    {
-                    "Name" = "8:System.Net.Http.dll"
-                    "Attributes" = "3:512"
-                    }
-                }
-            "SourcePath" = "8:System.Net.Http.dll"
-            "TargetName" = "8:"
-            "Tag" = "8:"
-            "Folder" = "8:_6D66F473931343B2AA792705A0919214"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:TRUE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_C43AD49747AC43989D104E79653258E1"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_6348834537B64F2395C5778E1B30652C"
             {
             "SourcePath" = "8:C:\\Users\\Marcin\\Downloads\\Double-J-Design-Ravenna-3d-Lock.ico"
             "TargetName" = "8:icon"
@@ -179,7 +136,7 @@
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
             "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
+            "Hidden" = "11:TRUE"
             "System" = "11:FALSE"
             "Permanent" = "11:FALSE"
             "SharedLegacy" = "11:FALSE"
@@ -257,7 +214,7 @@
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:Encrypter"
         "ProductCode" = "8:{22347879-B23A-4F78-A5D9-5595C17E5D40}"
-        "PackageCode" = "8:{E6C04774-F74A-41E2-AFF6-B0FEC3E6A89A}"
+        "PackageCode" = "8:{89ADAE3D-E2D4-4B16-8F8C-3AD38A84CA24}"
         "UpgradeCode" = "8:{B5901F9C-B853-44A0-AB1F-3F1AD26055C7}"
         "AspNetVersion" = "8:2.0.50727.0"
         "RestartWWWService" = "11:FALSE"
@@ -274,7 +231,7 @@
         "Keywords" = "8:"
         "ARPCOMMENTS" = "8:Easily encrypt and decrypt your files and messages"
         "ARPURLINFOABOUT" = "8:"
-        "ARPPRODUCTICON" = "8:_C43AD49747AC43989D104E79653258E1"
+        "ARPPRODUCTICON" = "8:"
         "ARPIconIndex" = "3:0"
         "SearchPath" = "8:"
         "UseSystemSearchPath" = "11:TRUE"
@@ -377,7 +334,7 @@
         }
         "Shortcut"
         {
-            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_0100D02D354D4D54921E931960D62FDB"
+            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_5C6EAD11D3B142BEA45B01A352541631"
             {
             "Name" = "8:Encrypter"
             "Arguments" = "8:"
@@ -385,13 +342,13 @@
             "ShowCmd" = "3:1"
             "IconIndex" = "3:0"
             "Transitive" = "11:FALSE"
-            "Target" = "8:_425759A291BF45719D9BAEF1958C4877"
+            "Target" = "8:_AEBB308BE8DC4B6997E50D3FAEA468C5"
             "Folder" = "8:_A34CE5CED4354A96818ABAB2AE02467F"
             "WorkingFolder" = "8:_6D66F473931343B2AA792705A0919214"
-            "Icon" = "8:_C43AD49747AC43989D104E79653258E1"
+            "Icon" = "8:_6348834537B64F2395C5778E1B30652C"
             "Feature" = "8:"
             }
-            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_D634395211014D6D91B8F450C39505A6"
+            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_97BBF82214544233A1C22B4AFBA6BA90"
             {
             "Name" = "8:Encrypter"
             "Arguments" = "8:"
@@ -399,10 +356,10 @@
             "ShowCmd" = "3:1"
             "IconIndex" = "3:0"
             "Transitive" = "11:FALSE"
-            "Target" = "8:_425759A291BF45719D9BAEF1958C4877"
+            "Target" = "8:_AEBB308BE8DC4B6997E50D3FAEA468C5"
             "Folder" = "8:_CF1B636B6D7C48DEAA4E894F516C204B"
             "WorkingFolder" = "8:_6D66F473931343B2AA792705A0919214"
-            "Icon" = "8:_C43AD49747AC43989D104E79653258E1"
+            "Icon" = "8:_6348834537B64F2395C5778E1B30652C"
             "Feature" = "8:"
             }
         }
@@ -804,7 +761,7 @@
         }
         "ProjectOutput"
         {
-            "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_425759A291BF45719D9BAEF1958C4877"
+            "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_AEBB308BE8DC4B6997E50D3FAEA468C5"
             {
             "SourcePath" = "8:..\\Encrypter\\obj\\Release\\Encrypter.exe"
             "TargetName" = "8:"

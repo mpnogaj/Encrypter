@@ -83,7 +83,7 @@
             this.save.TabIndex = 4;
             this.save.Text = "Save";
             this.save.UseVisualStyleBackColor = true;
-            this.save.Click += new System.EventHandler(this.save_Click);
+            this.save.Click += new System.EventHandler(this.Save_Click);
             // 
             // pick
             // 
@@ -93,7 +93,7 @@
             this.pick.TabIndex = 3;
             this.pick.Text = "Browse";
             this.pick.UseVisualStyleBackColor = true;
-            this.pick.Click += new System.EventHandler(this.pick_Click);
+            this.pick.Click += new System.EventHandler(this.Pick_Click);
             // 
             // outputBox
             // 
@@ -139,7 +139,7 @@
             this.button1.TabIndex = 4;
             this.button1.Text = "Work";
             this.button1.UseVisualStyleBackColor = true;
-            this.button1.Click += new System.EventHandler(this.button1_Click);
+            this.button1.Click += new System.EventHandler(this.Button1_Click);
             // 
             // label1
             // 
@@ -271,7 +271,7 @@
             this.doString.TabIndex = 4;
             this.doString.Text = "Work";
             this.doString.UseVisualStyleBackColor = true;
-            this.doString.Click += new System.EventHandler(this.doString_Click);
+            this.doString.Click += new System.EventHandler(this.DoString_Click);
             // 
             // label2
             // 
