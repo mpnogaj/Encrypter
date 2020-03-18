@@ -171,7 +171,7 @@ namespace Encrypter
             }
             else
             {
-                MessageBox.Show(@"Coś poszło nie tak. Spróbuj ponownie");
+                MessageBox.Show(@"Something went wrong. Please try again");
                 return null;
             }
         }
@@ -212,7 +212,7 @@ namespace Encrypter
             }
             else
             {
-                MessageBox.Show(@"Coś poszło nie tak. Spróbuj ponownie");
+                MessageBox.Show(@"Something went wrong. Please try again");
                 return null;
             }
         }
